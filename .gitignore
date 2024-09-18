@@ -1,0 +1,4 @@
+#Extenstion files
+*.ini
+.vscode/
+UpgradeLog.htm
